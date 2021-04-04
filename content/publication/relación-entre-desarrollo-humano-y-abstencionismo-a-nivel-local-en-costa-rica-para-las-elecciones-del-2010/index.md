@@ -13,5 +13,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-04-04T00:55:08.947Z
-url_pdf: https://dialnet.unirioja.es/servlet/articulo?codigo=5607359
+url_pdf: https://dialnet.unirioja.es/descarga/articulo/5607359.pdf
 ---
