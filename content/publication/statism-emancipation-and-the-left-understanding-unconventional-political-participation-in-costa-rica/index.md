@@ -15,4 +15,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-04-04T01:08:00.256Z
+url_pdf: https://dialnet.unirioja.es/servlet/articulo?codigo=7431708
 ---
