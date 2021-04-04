@@ -13,6 +13,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-04T01:05:48.503Z
+date: 2018
 url_pdf: http://repositorio.conare.ac.cr/bitstream/handle/20.500.12337/2966/Analisis_ideologico_concrecion_programas_Gobierno_elecciones_2018.pdf?sequence=1
 ---
