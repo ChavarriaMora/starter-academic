@@ -4,8 +4,7 @@ title: Relación entre desarrollo humano y abstencionismo a nivel local en Costa
 publication_types:
   - "2"
 authors:
-  - Chavarría-Mora
-  - Elías
+  - Elías Chavarría-Mora
 publication: Revista de derecho electoral
 draft: false
 featured: false
