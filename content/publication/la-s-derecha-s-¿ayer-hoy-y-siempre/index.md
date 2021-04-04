@@ -14,4 +14,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-04-04T01:07:00.901Z
+url_pdf: https://www.raco.cat/index.php/RevistaCIDOB/article/download/378714/472025
 ---
