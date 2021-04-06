@@ -11,7 +11,7 @@ main:
     url: '/publication'
     weight: 20
   - name: Opinion articles
-    url: '/opinion'
+    url: '/opinion articles'
     weight: 30
   - name: Talks
     url: '/talks'
