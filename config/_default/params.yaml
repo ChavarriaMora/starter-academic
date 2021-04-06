@@ -40,10 +40,6 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/Tarnov'
-  - icon: facebook
-    icon_pack: fab
-    name: Facebook
-    link: 'https://www.facebook.com/elias.chavarria.39'
   - icon: linkedin
     icon_pack: fab
     name: Linkedin
