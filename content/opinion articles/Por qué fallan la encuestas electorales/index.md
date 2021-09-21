@@ -10,5 +10,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-01-01T01:04:38.792Z
-url_pdf: https://www.nacion.com/opinion/foros/foro-por-que-fallan-la-encuestas-electorales/BY3KZRJNJVCGRLVILDGSEOJVZY/story/
+url_pdf: https://www.nacion.com/opinion/foros/foro-por-que-fallan-la-encuestas-electorales/BY3KZRJNJVCGRLVILDGSEOJVZY/story/?utm_source=dlvr.it&utm_medium=twitter
 ---
