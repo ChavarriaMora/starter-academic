@@ -15,5 +15,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2019-01-01T01:04:38.792Z
-url_pdf: https://dialnet.unirioja.es/servlet/articulo?codigo=7431708
+url_pdf: uploads/Statism, Emancipation and the Left.pdf
 ---
