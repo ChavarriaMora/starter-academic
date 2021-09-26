@@ -14,5 +14,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-01-01T01:04:38.792Z
-url_pdf: static/uploads/Analisis_ideologico_concrecion_programas_Gobierno_elecciones_2018.pdf
+url_pdf: /uploads/Analisis_ideologico_concrecion_programas_Gobierno_elecciones_2018.pdf
 ---
