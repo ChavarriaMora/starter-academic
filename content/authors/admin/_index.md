@@ -45,4 +45,4 @@ highlight_name: false
 ---
 Elias Chavarria-Mora is a political science PhD student at the University of Pittsburgh, focusing on comparative politics and political behavior. He has an MA from the same university and got his undergraduate degree at the University of Costa Rica. He has worked at the Programa Estado de la Nación and Centro de Investigación y Estudios Políticos in Costa Rica. His research has mostly focused on protest politics and party competition and has been published in journals such as Revista Latinoamericana de Opinión Pública and the Costa Rican Revista de Derecho Electoral.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/upload/Chavarria_Mora_AcademicCVEng.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chavarria_Mora_AcademicCVEng.pdf" "newtab" >}}CV{{< /staticref >}}.
