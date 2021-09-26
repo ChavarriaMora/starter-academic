@@ -10,5 +10,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-01-01T01:04:38.792Z
-url: https://www.youtube.com/watch?v=Ong0MVpkzpk
+url: www.youtube.com/watch?v=Ong0MVpkzpk
 ---
