@@ -1,5 +1,5 @@
 ---
-title: Dimensiones ideolóficas de la protesta en Latinoamérica
+title: Dimensiones ideológicas de la protesta en Latinoamérica
 publication_types:
   - "4"
 publication: "Escuela de Ciencias Políticas - Universidad de Costa Rica"
