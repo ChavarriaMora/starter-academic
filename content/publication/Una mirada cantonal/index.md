@@ -1,7 +1,7 @@
 ---
-title: Una mirada cantonal mediante estadística espacial al efecto del
+title: "Una mirada cantonal mediante estadística espacial al efecto del
 desarrollo humano sobre el apoyo electoral en la segunda ronda
-de la elección presidencial de 2018
+de la elección presidencial de 2018"
 publication_types:
   - "2"
 authors:
