@@ -1,6 +1,6 @@
 
 ---
-title: Democracia, apoyo ciudadano y nuevas generaciones frente al retroceso democrático en Centroamérica
+title: "Democracia, apoyo ciudadano y nuevas generaciones frente al retroceso democrático en Centroamérica"
 publication_types:
   - "2"
 authors:
