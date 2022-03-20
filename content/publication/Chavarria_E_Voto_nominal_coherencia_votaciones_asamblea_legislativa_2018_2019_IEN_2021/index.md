@@ -1,6 +1,6 @@
 
 ---
-title: Voto nominal y coherencia en votaciones en la asamblea legislativa 2018-2019
+title: "Voto nominal y coherencia en votaciones en la asamblea legislativa 2018-2019"
 publication_types:
   - "4"
 authors:
