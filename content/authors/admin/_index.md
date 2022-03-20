@@ -1,6 +1,6 @@
 ---
 title: Elías Chavarría-Mora
-role: PhD Student
+role: PhD Candidate
 avatar_filename: avatar-laspp2019.jpg
 bio: I am a political scientist from Costa Rica. I did my undergradute degrees
   in the University of Costa Rica and am currently pursuing a PhD at the
@@ -43,6 +43,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Elias Chavarria-Mora is a political science PhD student at the University of Pittsburgh, focusing on comparative politics and political behavior. He has an MA from the same university and got his undergraduate degree at the University of Costa Rica. He has worked at the Programa Estado de la Nación and Centro de Investigación y Estudios Políticos in Costa Rica. His research has mostly focused on protest politics and party competition and has been published in journals such as Revista Latinoamericana de Opinión Pública and the Costa Rican Revista de Derecho Electoral.   
+Elias Chavarria-Mora is a political science PhD candidate at the University of Pittsburgh, focusing on comparative politics and political behavior. He has an MA from the same university and got his undergraduate degree at the University of Costa Rica. He has worked at the Programa Estado de la Nación and Centro de Investigación y Estudios Políticos in Costa Rica. His research has mostly focused on protest politics and party competition and has been published in journals such as Revista Latinoamericana de Opinión Pública and the Costa Rican Revista de Derecho Electoral.   
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chavarria_Mora_AcademicCVEng.pdf" "newtab" >}}CV{{< /staticref >}}.
