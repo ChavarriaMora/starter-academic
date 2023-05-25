@@ -3,8 +3,7 @@ title: "La(s) derecha(s): ¿ayer, hoy y siempre?"
 publication_types:
   - "0"
 authors:
-  - Chavarría-Mora
-  - Elías
+  - Elías Chavarría-Mora
 doi: 10.24241/rcai.2020.126.3.261
 publication: Revista CIDOB d'Afers Internacionals
 draft: false
