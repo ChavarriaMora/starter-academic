@@ -3,8 +3,8 @@ title: "Shifting Positions: Party Positions and Political Manifestos in Costa Ri
 publication_types:
   - "2"
 authors:
-  - Chavarría-Mora
-  - Elías
+  - Elías Chavarría-Mora
+  - Katie M. Angell
 doi: 10.1017/lap.2022.34
 publication: Latin American Politics and Society
 draft: false
