@@ -2,7 +2,7 @@
 title: Elías Chavarría-Mora
 role: PhD Candidate
 avatar_filename: avatar-laspp2019.jpg
-bio: Elias Chavarria-Mora is a political science PhD candidate at the University of Pittsburgh, focusing on comparative political behavior with a regional focus on Latin America. His dissertation focuses on the use of social media for electoral campaigning by political parties in developing countries, particularly in Central America.  He has an MA from the University of Pittsburgh and received his undergraduate degree from the University of Costa Rica. He has worked at the Programa Estado de la Nación and Centro de Investigación y Estudios Políticos in Costa Rica. His prior research has mostly focused on protest politics and party competition and has been published in Latin American, Spanish, and American journals, including a forthcoming article in Latin American Politics and Society.
+bio: Elias Chavarria-Mora is a political science PhD candidate at the University of Pittsburgh, focusing on comparative political behavior with a regional focus on Latin America. His dissertation focuses on the use of social media for electoral campaigning by political parties in developing countries, particularly in Central America.  He has an MA from the University of Pittsburgh and received his undergraduate degree from the University of Costa Rica. He has worked at the Programa Estado de la Nación and Centro de Investigación y Estudios Políticos in Costa Rica. His prior research has mostly focused on protest politics and party competition and has been published in Latin American, Spanish, and American journals, including Latin American Politics and Society.
 interests: null
 social:
   - icon: envelope
