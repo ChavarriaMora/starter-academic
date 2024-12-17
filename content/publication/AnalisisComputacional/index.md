@@ -1,5 +1,5 @@
 ---
-title: "Análisis computacional del uso de Twitter durante los debates presidenciales del 2022 en Costa Ric."
+title: "Análisis computacional del uso de Twitter durante los debates presidenciales del 2022 en Costa Rica."
 publication_types:
   - "2"
 authors:
