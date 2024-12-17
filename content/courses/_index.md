@@ -7,11 +7,11 @@ header:
   image: ""
 ---
 
-I have thought the following courses:
-As an instructor on record:
+I have thought the following courses: |
+As an instructor on record: |
 At the University of Costa Rica: Comparative Method, Political ideologies in Latin America and Costa Rica, International Politics, Political Culture and National
-Identities (MA program).
-At the University of Pittsburgh: Introduction to Comparative Politics.
+Identities (MA program). |
+At the University of Pittsburgh: Introduction to Comparative Politics. |
 
-As a teaching assistant:
+As a teaching assistant: |
 At the University of Pittsburgh: Introduction to Comparative Politics, Modern Civil Rights in American Politics, Conflict and War Analysis, Political Theory, Introduction to American Politics.
