@@ -10,5 +10,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-01-01T01:04:38.792Z
-url: https://www.nacion.com/opinion/foros/fascismo-alt-right-y-antifas-en-la-historia/44BA7PIIMVGHFEICXBPSRONZWI/story/
+url: "https://www.nacion.com/opinion/foros/fascismo-alt-right-y-antifas-en-la-historia/44BA7PIIMVGHFEICXBPSRONZWI/story/"
 ---
