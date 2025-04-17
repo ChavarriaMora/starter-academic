@@ -26,7 +26,7 @@ organizations:
     url: [https://ecp.ucr.ac.cr/index.php/es/inicio]
 education:
   courses:
-    -course: PhD in Political Science
+    - course: PhD in Political Science
       institution: University of Pittsburgh
       year: 2025 
     - course: MA in Political Science
