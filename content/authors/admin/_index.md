@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/el%C3%ADas-chavarr%C3%ADa-mora-782831144/
 organizations:
-  - name: University of Costa Rica, school of Political Science
+  - name: University of Costa Rica, School of Political Science
     url: [https://ecp.ucr.ac.cr/index.php/es/inicio]
 education:
   courses:
