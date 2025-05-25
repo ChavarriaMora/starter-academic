@@ -1,8 +1,8 @@
 ---
 title: La Participación Política Contenciosa en la Democracia Costarricense
 publication_types:
-  - "0" 
-authors:
+  - "6" 
+authors: 
   - Elías Chavarría-Mora
 publication: El Malestar en Costa Rica: ¿Alertas desde la Cultura Democrática?
 draft: false
