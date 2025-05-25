@@ -4,7 +4,6 @@ publication_types:
   - "6" 
 authors:
   - Elías Chavarría-Mora
-#doi: 
 publication: El Malestar en Costa Rica: ¿Alertas desde la Cultura Democrática?
 draft: false
 featured: false
@@ -13,5 +12,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2025-01-01T01:04:38.792Z
-#url_pdf:
 ---
