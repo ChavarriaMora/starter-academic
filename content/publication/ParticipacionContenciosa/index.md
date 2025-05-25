@@ -1,7 +1,7 @@
 ---
 title: "La Participación Política Contenciosa en la Democracia Costarricense."
 publication_types:
-  - "2" 
+  - "6" 
 authors:
   - Elías Chavarría-Mora
 #doi: 
