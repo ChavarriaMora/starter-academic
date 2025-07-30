@@ -9,8 +9,7 @@ header:
 
 # As an instructor on record:
 ## At the University of Costa Rica: 
-Quantitative Political Analysis I, Quantitative Political Analysis II, Comparative Method, Political Ideologies in Latin America and Costa Rica, International Politics, Political Culture and National
-Identities (MA program). 
+Quantitative Political Analysis I, Quantitative Political Analysis II, Political Ideas and Their Reach II, Comparative Method, Political Ideologies in Latin America and Costa Rica, International Politics, Political Culture and National Identities (MA program). 
 ## At the University of Pittsburgh: 
 Introduction to Comparative Politics.
 # As a teaching assistant: 
