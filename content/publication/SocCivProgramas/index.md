@@ -1,5 +1,5 @@
 ---
-title: Programas de Estudios Sociales y Cívica en la educación costarricense: enfoques, contenidos, perfiles y desafíos para su aplicación en las aulas
+title: Programas de Estudios Sociales y Cívica en la educación costarricense enfoques, contenidos, perfiles y desafíos para su aplicación en las aulas
 publication_types:
   - "4"
 authors:
