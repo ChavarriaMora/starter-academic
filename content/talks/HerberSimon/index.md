@@ -1,5 +1,5 @@
 ---
-title: Herbert Simon y ciencia política: Aplicación a elecciones con baja información
+title: Herbert Simon y ciencia política Aplicación a elecciones con baja información
 publication_types:
   - "4"
 publication: "Red Iberoamericana de Ciencias Sociales Computacionales"
