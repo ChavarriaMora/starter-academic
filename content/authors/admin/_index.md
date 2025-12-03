@@ -20,7 +20,7 @@ social:
     link: https://github.com/ChavarriaMora
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/el%C3%ADas-chavarr%C3%ADa-mora-782831144/
+    link: https://www.linkedin.com/in/el%C3%ADas-chavarr%C3%ADa-mora-phd-782831144/
 organizations:
   - name: University of Costa Rica, School of Political Science
     url: [https://ecp.ucr.ac.cr/index.php/es/inicio]
