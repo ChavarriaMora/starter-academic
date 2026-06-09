@@ -1,5 +1,5 @@
 ---
-title: Colombia 2026: Extremos a segunda ronda
+title: Colombia 2026 Extremos a segunda ronda
 publication_types:
   - "4"
 publication: "Radioemisoras UCR - Desayunos"
