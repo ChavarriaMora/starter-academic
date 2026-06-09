@@ -1,8 +1,8 @@
 ---
-title: Campañas electorales por redes sociales en América Central
+title: Colombia 2026: Extremos a segunda ronda
 publication_types:
   - "4"
-publication: "Escuela de Ciencias Políticas - Universidad de Costa Rica"
+publication: "Radioemisoras UCR - Desayunos"
 draft: false
 featured: false
 image:
