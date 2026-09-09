@@ -1,6 +1,5 @@
 ---
-title: 
-A propósito de… granjas, bots, perfiles falsos, troles y otras criaturas - 07 SEPTIEMBRE, 2026
+title: A propósito de granjas, bots, perfiles falsos, troles y otras criaturas
 publication_types:
   - "4"
 publication: "Radio Columbia"
